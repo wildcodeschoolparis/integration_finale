@@ -170,7 +170,7 @@ section {
 /* Pills */
 
 #pillsSection, #bestHunters, #NeedYou {
-    background: url(../img/_bg_light.png) 0 0 repeat;
+    background: url(../img/bg_light.png) 0 0 repeat;
     overflow: hidden;
     clear: both;
 }
@@ -214,7 +214,7 @@ textarea.form-control {
 /* Captured section */
 
 #capturedSection, #aboutRing, #contactUs {
-    background: url(../img/_bg_dark.png) 0 0 repeat;
+    background: url(../img/bg_dark.png) 0 0 repeat;
     overflow: hidden;
     color: #fff;
 }
